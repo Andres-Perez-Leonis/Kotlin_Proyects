@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btn_order_priority"
+        android:title="@string/order_by_priority" />
+    <item
+        android:id="@+id/btn_order_date"
+        android:title="@string/order_by_date" />
+</menu>

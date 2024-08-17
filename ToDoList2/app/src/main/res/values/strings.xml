@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="description_menu_icon">Open menu</string>
+
+    <!-- String of header bar menu left -->
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+
+    <!-- String's of header bar menu left -->
+    <string name="view_menu_open">Open</string>
+    <string name="view_menu_close">Close</string>
+
+    <string name="order_by_date">Ordenar por fecha</string>
+    <string name="order_by_priority">Ordenar por prioridad</string>
+
+    <string name="descr_overflow_button">Opciones de vista</string>
+
+
+    <!-- String's of item's of to do list -->
+    <string name="Date">Date</string>
+</resources>

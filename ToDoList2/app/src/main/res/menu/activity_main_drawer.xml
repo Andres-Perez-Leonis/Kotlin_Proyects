@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item android:id="@+id/Item1" android:title="Item1" />
+        <item android:id="@+id/Item2" android:title="Item2" />
+        <item android:id="@+id/Item3" android:title="Item3" />
+    </group>
+
+    <item android:title="Titulo">
+        <menu>
+
+            <item android:id="@+id/Item6" android:title="Item6" />
+            <item android:id="@+id/Item7" android:title="Item7" />
+        </menu>
+    </item>
+</menu>
