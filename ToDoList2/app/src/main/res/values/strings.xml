@@ -2,6 +2,8 @@
     <string name="app_name">ToDoList</string>
     <string name="description_menu_icon">Open menu</string>
 
+    <string name="description_btn_add_task">Añadir tarea</string>
+    <string name="image_task">Imagen Tarea</string>
     <!-- String of header bar menu left -->
     <string name="navigation_drawer_open">Open</string>
     <string name="navigation_drawer_close">Close</string>
@@ -18,5 +20,17 @@
 
 
     <!-- String's of item's of to do list -->
-    <string name="Date">Date</string>
+    <string name="Date">Fecha</string>
+    <string name="date">Fecha</string>
+    <string name="hint_date">dd/mm/aaaa</string>
+    <string name="noum">Nombre de la tarea</string>
+    <string name="description">Descripcion</string>
+    <string name="priority">Prioridad</string>
+    <string-array name="priority_options">
+        <item>P1</item>
+        <item>P2</item>
+        <item>P3</item>
+        <item>P4</item>
+    </string-array>
+    <string name="add">Añadir tarea</string>
 </resources>
